@@ -12876,11 +12876,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/abhishek/Documents/Apex Restaurant/ApexRestaurant.Mvc/ApexRestaurant.Mvc.csproj",
+      "projectUniqueName": "/Users/abhishek/Documents/ApexRestaurant-master/ApexRestaurant.Mvc/ApexRestaurant.Mvc.csproj",
       "projectName": "ApexRestaurant.Mvc",
-      "projectPath": "/Users/abhishek/Documents/Apex Restaurant/ApexRestaurant.Mvc/ApexRestaurant.Mvc.csproj",
+      "projectPath": "/Users/abhishek/Documents/ApexRestaurant-master/ApexRestaurant.Mvc/ApexRestaurant.Mvc.csproj",
       "packagesPath": "/Users/abhishek/.nuget/packages/",
-      "outputPath": "/Users/abhishek/Documents/Apex Restaurant/ApexRestaurant.Mvc/obj/",
+      "outputPath": "/Users/abhishek/Documents/ApexRestaurant-master/ApexRestaurant.Mvc/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
