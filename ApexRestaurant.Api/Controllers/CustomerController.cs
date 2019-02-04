@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ApexRestaurant.Api.Controllers
 {
-    [Route("api/customer")]
+     [Route("api/customer")]
     public class CustomerController : ControllerBase
     {
         private readonly ICustomerService _customerService;
